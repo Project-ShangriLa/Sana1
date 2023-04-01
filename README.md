@@ -90,7 +90,7 @@ c38は2023年春アニメのシーズンIDです
 ### 2023年春アニメの中の続編作品を除いたフォロワー数ランキングをツイートする場合
 
 ```
-/usr/local/bin/ruby main.rb -c 38 -o
+ruby main.rb -c 38 -o
 ```
 
 ![c38new](./doc/new-c38.jpeg)
